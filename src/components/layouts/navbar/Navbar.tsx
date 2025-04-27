@@ -64,7 +64,7 @@ function Navbar({ setNavbarHeight }: NavbarProps) {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/home">
+                <a className="nav-link active" aria-current="page" href="/">
                   Home
                 </a>
               </li>
